@@ -3,62 +3,62 @@ const products = [
     {
       name: "Weverton",
       description: "Goleiro.",
-      imageUrl:"img/Weverton.png"
+      imageUrl:"../img/Weverton.png"
     },
     {
       name: "Mayke",
       description: "Lateral Direito.",
-      imageUrl:"img/Mayke.png"
+      imageUrl:"../img/Mayke.png"
     },
     {
       name: "Piquerez",
       description: "Lateral Esquerdo.",
-      imageUrl:"img/Piquerez.png"
+      imageUrl:"../img/Piquerez.png"
     },
     {
       name: "Gustavo Gomez",
       description: "Zagueiro.",
-      imageUrl:"img/Gustavo Gomez.png"
+      imageUrl:"../img/Gustavo Gomez.png"
     },
     {
       name: "Murilo",
       description: "Zagueiro.",
-      imageUrl:"img/Murilo.png"
+      imageUrl:"../img/Murilo.png"
     },
     {
       name: "Anibal Moreno",
       description: "Volante.",
-      imageUrl:"img/Anibal_Moreno.png"
+      imageUrl:"../img/Anibal_Moreno.png"
     },
     {
       name: "Zé Rafael",
       description: "Volante.",
-      imageUrl:"img/Ze_Rafael.png"
+      imageUrl:"../img/Ze_Rafael.png"
     },
     {
       name: "Rafael Veiga",
       description: "Meia Campista.",
-      imageUrl:"img/Rafael_Veiga.png"
+      imageUrl:"../img/Rafael_Veiga.png"
     },
     {
       name: "Estevão",
       description: "Ponta Direita.",
-      imageUrl:"img/Estevao.png"
+      imageUrl:"../img/Estevao.png"
     },
     {
       name: "Felipe Anderson",
       description: "Ponta Esquerda.",
-      imageUrl:"img/Felipe_Anderson.png"
+      imageUrl:"../img/Felipe_Anderson.png"
     },
     {
       name: "Flaco Lopez",
       description: "Atacante.",
-      imageUrl:"img/Flaco_Lopez.png"
+      imageUrl:"../img/Flaco_Lopez.png"
     },
     {
       name: "Abel Ferreira",
       description: "Tecnico.",
-      imageUrl:"img/Abel_Ferreira.png"
+      imageUrl:"../img/Abel_Ferreira.png"
     },
 
   ];
