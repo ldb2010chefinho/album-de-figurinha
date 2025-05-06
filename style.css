@@ -1,11 +1,17 @@
-  .product-card img {
+  .jogador-card img {
     max-width: 100%;
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
   }
 
-.product-card {
+  #jogadores-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+
+.jogador-card {
     --background: linear-gradient(to bottom, rgb(218, 164, 30) 0%, #00ff6a 100%);
     width: 190px;
     max-width: 250px;
@@ -22,7 +28,7 @@
     z-index: 1;
    }
 
-   .product-card::after {
+   .jogador-card::after {
     position: absolute;
     content: "";
     top: 30px;
@@ -53,17 +59,17 @@
     line-height: 1px;
    }
 
-   .product-card .product-name .product-description {
+   .jogador-card .jogador-name .jogador-description {
     font-weight: bold;
     letter-spacing: .1em;
    }
 
    /*Hover*/
-.product-card:hover::after {
+.jogador-card:hover::after {
     opacity: 0;
    }
 
-   .product-card:hover .card-info {
+   .jogador-card:hover .card-info {
     color: darkgoldenrod;
     transition: color 1s;
    }
